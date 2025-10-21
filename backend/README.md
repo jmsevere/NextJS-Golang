@@ -10,6 +10,7 @@ Implementation
 - Mutation -> updates state + triggers broadcast to subscribers
 - Subscription -> real-time updates to all clients
 
+Endpoints
 - Query endpoint: getLastPing
 - Mutation endpoint: sendPing
 - Subscription endpoint: livePing

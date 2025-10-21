@@ -1,0 +1,22 @@
+scalar Time
+
+type Ping {
+  id: ID!
+  timestamp: Time
+}
+
+type Query {
+  getLastPing: Ping
+}
+
+input NewPing {
+  timestamp: Time!
+}
+
+type Mutation {
+  sendPing(input: NewPing!): Ping!
+}
+
+type Subscription {
+  livePing: Ping
+}

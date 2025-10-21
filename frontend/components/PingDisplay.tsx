@@ -55,7 +55,7 @@ export default function PingDisplay() {
   }, [sendPing]);
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-50 to-indigo-100">
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-500 to-indigo-100">
       <div className="bg-white p-8 rounded-2xl shadow-2xl max-w-md w-full">
         <h1 className="text-3xl font-bold text-center mb-6 text-gray-800">
           Live Ping Monitor

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"example/graph"
+	"backend/graph"
 	"log"
 	"net/http"
 	"os"

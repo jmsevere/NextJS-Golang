@@ -1,4 +1,4 @@
-module example
+module backend
 
 go 1.22.12
 

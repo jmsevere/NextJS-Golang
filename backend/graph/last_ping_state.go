@@ -1,7 +1,7 @@
 package graph
 
 import (
-	"example/graph/model"
+	"backend/graph/model"
 	"time"
 )
 

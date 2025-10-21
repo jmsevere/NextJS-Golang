@@ -143,10 +143,3 @@ NEXT_PUBLIC_GRAPHQL_WS_URL=ws://localhost:8080/graphql
 ### GraphQL Playground
 
 Test backend operations at `http://localhost:8080/`
-
-## Learn More
-
-- [Next.js Documentation](https://nextjs.org/docs)
-- [Apollo Client Documentation](https://www.apollographql.com/docs/react/)
-- [GraphQL Subscriptions](https://www.apollographql.com/docs/react/data/subscriptions/)
-- [graphql-ws](https://github.com/enisdenjo/graphql-ws)
